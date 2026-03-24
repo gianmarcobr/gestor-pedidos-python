@@ -45,7 +45,9 @@ El sistema permite llevar control completo de pedidos y pagos desde la terminal.
 
 This project is a Python-based system for managing orders in a custom clothing business.
 
-Features:
+It allows users to register orders, track payments, and monitor the production status of each request.
+
+### Features
 - Register new orders
 - Search customers by name, phone, or ID
 - Edit records
@@ -53,4 +55,5 @@ Features:
 - Change order status
 - View business summary
 
-This project was built as part of my portfolio, applying programming to a real-world business case.
+### Purpose
+This project was developed as part of my portfolio, applying programming to solve real-world problems in a small business environment.
