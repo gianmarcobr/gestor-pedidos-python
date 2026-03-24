@@ -39,7 +39,7 @@ El sistema permite llevar control completo de pedidos y pagos desde la terminal.
 
 ## Ejemplo de uso
 
-![Demo](demo.png)
+![Demo](Demo.jpeg)
 
 ## English version
 
