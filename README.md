@@ -28,3 +28,17 @@ Este proyecto fue desarrollado como parte de mi portafolio, aplicando programaci
 ## Ejemplo de uso
 
 ![Demo](demo.png)
+
+## English version
+
+This project is a Python-based system for managing orders in a custom clothing business.
+
+Features:
+- Register new orders
+- Search customers by name, phone, or ID
+- Edit records
+- Track payments
+- Change order status
+- View business summary
+
+This project was built as part of my portfolio, applying programming to a real-world business case.
