@@ -18,12 +18,24 @@ Sistema desarrollado en Python para registrar cotizaciones, gestionar pedidos y 
 - datetime
 
 ## Objetivo del proyecto
-Este proyecto fue desarrollado como parte de mi portafolio, aplicando programación a un caso real de gestión de pedidos.
+
+Este proyecto fue desarrollado como una solución para digitalizar el proceso de cotización y seguimiento de pedidos en un negocio real de ropa personalizada.
+
+Permite organizar pedidos, controlar pagos y hacer seguimiento del estado de producción, resolviendo problemas comunes como la desorganización de pedidos y la falta de control financiero.
 
 ## Mejoras futuras
 - Interfaz gráfica
 - Versión web
 - Base de datos
+
+## Cómo usar el programa
+
+1. Ejecutar el archivo en Python
+2. Elegir una opción del menú
+3. Registrar una nueva cotización
+4. Buscar, editar o actualizar el estado de pedidos
+
+El sistema permite llevar control completo de pedidos y pagos desde la terminal.
 
 ## Ejemplo de uso
 
