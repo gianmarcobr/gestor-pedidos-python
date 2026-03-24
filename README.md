@@ -24,3 +24,7 @@ Este proyecto fue desarrollado como parte de mi portafolio, aplicando programaci
 - Interfaz gráfica
 - Versión web
 - Base de datos
+
+## Ejemplo de uso
+
+![Demo](demo.png)
